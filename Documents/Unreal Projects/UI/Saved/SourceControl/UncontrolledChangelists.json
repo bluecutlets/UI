@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/UI/Button/NewPaperSprite.uasset",
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/UI/UI_interfeis.uasset",
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/UI/Menu.uasset",
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/UI/MainMenu.uasset",
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/UI/Menu1.uasset",
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/UI/Button/1400_png_1200-modified.uasset",
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/UI/Button/943-9435958_exit-button-png-exit-arrow-login-logout-cancel.uasset",
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/UI/Button/images.uasset",
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/UI/Play.uasset",
+				"C:/Users/Vova/Documents/Unreal Projects/UI/Content/Sound/zvuk41.uasset"
+			]
+		}
+	]
+}
